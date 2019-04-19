@@ -26,8 +26,14 @@ public class StringCalculatorTest {
     }
 
     @Test(expected = RuntimeException.class)
+<<<<<<< HEAD
     public void 음수값이_들어오는경우() {
         StringCalculator.splitAndSum("-1,2,3");
     }
 
+=======
+    public void 음수값() {
+        StringCalculator.splitAndSum("-1,2:#");
+    }
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
 }

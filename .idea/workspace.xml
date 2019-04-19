@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="0fcaa877-b228-4e58-8328-9dc63291eddd" name="Default Changelist" comment="">
+<<<<<<< HEAD
       <change afterPath="$PROJECT_DIR$/string-calculator/.idea/libraries/Gradle__ch_qos_logback_logback_classic_1_2_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/string-calculator/.idea/libraries/Gradle__ch_qos_logback_logback_core_1_2_3.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/string-calculator/.idea/libraries/Gradle__junit_junit_4_12.xml" afterDir="false" />
@@ -25,6 +26,17 @@
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
+=======
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/currency-example/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/currency-example/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string-calculator/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/string-calculator/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string-calculator/src/main/java/Positive.java" beforeDir="false" afterPath="$PROJECT_DIR$/string-calculator/src/main/java/Positive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string-calculator/src/main/java/StringCalculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/string-calculator/src/main/java/StringCalculator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/string-calculator/src/test/java/StringCalculatorTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/string-calculator/src/test/java/StringCalculatorTest.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -32,7 +44,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+<<<<<<< HEAD
       <file leaf-file-name="20190406-ORIENTATION.md" pinned="false" current-in-tab="true">
+=======
+      <file pinned="false" current-in-tab="false">
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
         <entry file="file://$PROJECT_DIR$/study-note/20190406-ORIENTATION.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
@@ -66,11 +82,40 @@
           </provider>
         </entry>
       </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string-calculator/build.gradle">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/string-calculator/gradlew.bat">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/currency-example/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
     </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+<<<<<<< HEAD
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
@@ -84,6 +129,19 @@
     <option name="y" value="23" />
     <option name="width" value="1639" />
     <option name="height" value="1027" />
+=======
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="820" />
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
@@ -92,7 +150,10 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
+<<<<<<< HEAD
       <pane id="AndroidView" />
+=======
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
       <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
@@ -106,6 +167,37 @@
               <item name="2019-TDD-STUDY" type="462c0819:PsiDirectoryNode" />
               <item name="currency-example" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="2019-TDD-STUDY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-TDD-STUDY" type="462c0819:PsiDirectoryNode" />
+              <item name="string-calculator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-TDD-STUDY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-TDD-STUDY" type="462c0819:PsiDirectoryNode" />
+              <item name="string-calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-TDD-STUDY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-TDD-STUDY" type="462c0819:PsiDirectoryNode" />
+              <item name="string-calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-TDD-STUDY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-TDD-STUDY" type="462c0819:PsiDirectoryNode" />
+              <item name="string-calculator" type="462c0819:PsiDirectoryNode" />
+              <item name="out" type="462c0819:PsiDirectoryNode" />
+              <item name="production" type="462c0819:PsiDirectoryNode" />
+              <item name="classes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="2019-TDD-STUDY" type="b2602c69:ProjectViewProjectNode" />
+              <item name="2019-TDD-STUDY" type="462c0819:PsiDirectoryNode" />
+              <item name="study-note" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -115,7 +207,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554487598236" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1555082775830" />
     <property name="ignore_missing_gitignore" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -188,6 +280,10 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
+<<<<<<< HEAD
+=======
+      <changelist id="0fcaa877-b228-4e58-8328-9dc63291eddd" name="Default Changelist" comment="" />
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
       <created>1554463639572</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
@@ -196,12 +292,18 @@
       <workItem from="1554463889280" duration="448000" />
       <workItem from="1554464368171" duration="177000" />
       <workItem from="1554465569840" duration="4493000" />
+<<<<<<< HEAD
       <workItem from="1554518410535" duration="701000" />
       <workItem from="1554984270600" duration="214000" />
+=======
+      <workItem from="1555082350114" duration="268000" />
+      <workItem from="1555082644594" duration="131000" />
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< HEAD
     <option name="totallyTimeSpent" value="6253000" />
   </component>
   <component name="ToolWindowManager">
@@ -211,6 +313,17 @@
       <window_info anchor="right" id="Palette" order="4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32915717" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
+=======
+    <option name="totallyTimeSpent" value="5737000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="820" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26609442" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
       <window_info id="Image Layers" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="5" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
@@ -233,8 +346,17 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="CheckStyle" order="9" />
+<<<<<<< HEAD
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info id="Learn" order="7" />
+=======
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Version Control" order="12" visible="true" weight="0.32692307" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
       <window_info anchor="right" id="Maven" order="3" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -270,11 +392,26 @@
         </entry>
       </map>
     </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list />
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <list />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/study-note/20190406-ORIENTATION.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -298,12 +435,30 @@
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="92">
             <caret line="4" selection-start-line="4" selection-end-line="4" />
+=======
+    <entry file="file://$PROJECT_DIR$/note/20190406-OR.md" />
+    <entry file="file://$PROJECT_DIR$/TDD-EXAMPLE/src/Main.java" />
+    <entry file="file://$PROJECT_DIR$/study-note/20190406-ORIENTATION.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="45">
+            <caret line="3" selection-start-line="3" selection-end-line="3" />
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
           </first_editor>
           <second_editor />
         </state>
       </provider>
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+        </state>
+      </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/study-note/20190406-ORIENTATION.md">
+=======
+    <entry file="file://$PROJECT_DIR$/study-note/20190406-Test-Driven-Development-1.md">
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor relative-caret-position="69">
@@ -313,14 +468,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/study-note/20190406-Test-Driven-Development-1.md">
+    <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor />
+          <first_editor relative-caret-position="60">
+            <caret line="4" selection-start-line="4" selection-end-line="4" />
+          </first_editor>
           <second_editor />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -358,6 +516,25 @@
             <caret line="14" column="39" selection-start-line="14" selection-start-column="39" selection-end-line="14" selection-end-column="39" />
           </first_editor>
           <second_editor />
+=======
+    <entry file="file://$PROJECT_DIR$/string-calculator/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/string-calculator/gradlew.bat">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/currency-example/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="1" selection-start-line="1" selection-start-column="1" selection-end-line="1" selection-end-column="1" />
+>>>>>>> a172b9b21db784dd16cbeedba82abf11691a134f
         </state>
       </provider>
       <provider editor-type-id="text-editor">

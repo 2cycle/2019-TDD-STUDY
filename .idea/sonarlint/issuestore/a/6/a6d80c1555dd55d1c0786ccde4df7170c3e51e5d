@@ -1,0 +1,4 @@
+
+lsquid:S1206"PThis class overrides "equals()" and should therefore also override "hashCode()".(’ÜÇŞ8ğÅ¢±£-
+;squid:S2097"Add a type test to this method.(’ÜÇŞ8ğÅ¢±£-
+dsquid:S2259"CA "NullPointerException" could be thrown; "money" is nullable here.(ê‰ ùÿÿÿÿ8ğÅ¢±£-
